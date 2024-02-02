@@ -1,0 +1,77 @@
+.about-us-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(248, 236, 221);
+}
+
+.about-us-head{
+    color: grey;
+    font-family: 'Questrial';
+    min-width: 350px;
+    max-width: 450px;
+    width: 100%;
+    text-align: center;
+}
+
+.spanned-about-us-head{
+    color: black;
+    font-family: 'cedarville cursive';
+}
+
+.about-us-image{
+    height: 780px;
+    width: 100%;
+    margin: 10px;
+}
+
+.about-us-content{
+    align-self: flex-start;
+}
+
+.about-us-heading{
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+
+.about-us-para{
+    color: gray;
+    font-family: 'Questrial';
+    padding: 20px;
+    font-size: 20px;
+}
+
+.count-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.count-item{
+    margin: 8px;
+}
+
+@media screen and (min-width:300px) and (max-width:768px){
+    .about-us-image{
+        height: 380px;
+    }
+    .about-us-para{
+        font-size: 12px;
+    }
+    .count-container{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:200px) and (max-width:300px){
+    .about-us-image{
+        height: 200px;
+    }
+    .about-us-head{
+        font-size: 13px;
+    }
+    .about-us-para{
+        font-size: 12px;
+    }
+}

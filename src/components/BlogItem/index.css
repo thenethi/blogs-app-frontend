@@ -1,0 +1,20 @@
+.blog-item{
+    border: 2px solid grey;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.blog-heading{
+    margin: 10px;
+}
+
+.read-more-btn{
+    background-color: transparent;
+    color: blue;
+    border: 0px solid;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+    outline: none;
+    text-decoration: underline;
+}
