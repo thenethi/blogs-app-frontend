@@ -22,33 +22,33 @@
     1. Landing Page:
         • Create an engaging landing page with a clear call to action.
         • Implement smooth animations or transitions for an enhanced user
-        experience.
+          experience.
         • Include relevant sections introducing the digital marketing company's core
-        values and services.
+          values and services.
 
     2. About Us Page:
         • Develop a page providing information about the digital marketing company,
-        its mission, and team members.
+          its mission, and team members.
         • Use a clean and minimalistic design for improved readability.
 
     3. Blog Page:
         • Implement a blog page that displays multiple blog posts.
         • Each blog post should have a featured image, title, brief description, and a
-        "Read More" link.
+          "Read More" link.
         • Clicking on a blog post should lead to a detailed page with the full content.
     
     4. Services Page:
 
         • Create a services page showcasing cards for various services the digital
-        marketing agency provides.
+          marketing agency provides.
         • When a service card is clicked, it should redirect to a new page providing
-        detailed information about that specific service.
+          detailed information about that specific service.
         • Use effective design to highlight key features of each service.
 
     5. Contact Us Form:
         • Design a Contact Us form with fields for name, email, phone, and message.
         • On form submission, the information should be sent to a designated email
-        address.
+          address.
         • Implement client-side and server-side form validation.
     
 
